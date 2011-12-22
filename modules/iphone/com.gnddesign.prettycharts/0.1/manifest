@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: View module for drawing charts UI.
+author: Go Ando
+license: MIT License
+copyright: Copyright (c) 2011 by gnddesign.com
+
+
+# these should not be edited
+name: prettycharts
+moduleid: com.gnddesign.prettycharts
+guid: 9bbb9bc3-e3dd-424b-9df1-53e2529ae7a8
+platform: iphone
+minsdk: 1.7.5
